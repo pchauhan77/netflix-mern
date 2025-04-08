@@ -1,8 +1,6 @@
 <a name="top"></a>
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
-![Demo App](./preview/home-screen.png 'Preview')
-
 ## This is how the project looks like:
 
 <table>
