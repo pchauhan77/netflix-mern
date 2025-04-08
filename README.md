@@ -1,22 +1,6 @@
 <a name="top"></a>
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
-## This is how the project looks like:
-
-<table>
-  <tr>
-    <td>
-      <a href='./login-screen.png'><img src="./preview/login-screen.png" style="width: 300px"/></a>
-    </td>
-    <td>
-      <a href='./search-page.png'><img src="./preview/search-page.png" style="width: 300px"/></a>
-    </td>
-    <td>
-      <a href='./watch-trailers.png'><img src="./preview/watch-trailers.png" style="width: 300px"/></a>
-    </td>
-  </tr>
-</table>
-
 ## About This Project:
 
 ⚛️ Tech Stack: <kbd>[React.js](https://react.dev/learn/installation)</kbd>, <kbd>[Node.js](https://nodejs.org/en/download/package-manager)</kbd>, <kbd>[Express.js](https://expressjs.com)</kbd>, <kbd>[MongoDB](https://www.mongodb.com)</kbd>, <kbd>[Tailwind CSS](https://tailwindcss.com/docs/installation)</kbd>
